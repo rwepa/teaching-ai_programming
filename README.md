@@ -11,4 +11,3 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_int
 
 # 第2章 AI與程式語言簡介
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
-# end
