@@ -4,8 +4,7 @@
 
 # 化學系生化一Ａ 第1-10週(第9章不上課)
 
-# 課綱影片 https://youtu.be/zLKQMnF9mEs
-
+# 化學系生化一Ａ 課綱影片 https://youtu.be/zLKQMnF9mEs
 
 # 化學系材化一Ａ 第9-18週
 
