@@ -5,10 +5,12 @@
 # 化學系生化一Ａ
 
 + 第1-10週(第9章不上課)
-
 + 課綱影片 https://youtu.be/zLKQMnF9mEs
 
-# 化學系材化一Ａ 第9-18週
+# 化學系材化一Ａ
+
++ 第9-18週
++ 課綱影片 https://youtu.be/fy8g-KW7lrw
 
 # 第1章 課程介紹 (iClass)
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_introduction.pdf
@@ -21,3 +23,5 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
 
 # ai_programming_03_anaconda.py
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
+
+更新中...
