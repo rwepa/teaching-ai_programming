@@ -11,3 +11,9 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_int
 
 # 第2章 AI與程式語言簡介
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
+
+# 第3章 Anaconda簡介與安裝
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.pdf
+
+# ai_programming_03_anaconda.py
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
