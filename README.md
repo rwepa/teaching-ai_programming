@@ -9,7 +9,7 @@
 
 # 化學系材化一Ａ
 
-+ 第9-18週
++ 第9,11-18週
 + 課綱影片 https://youtu.be/fy8g-KW7lrw
 
 # 第1章 課程介紹 (iClass)
@@ -29,7 +29,9 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
 # 第4章 資料分析
 
 + 4.1 資料匯入探索
++ 
 + 4.2 資料處理探索
++ 
 + 4.3 資料視覺化探索
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_data_analysis.py
@@ -43,5 +45,7 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_dat
 + 5.3 顯示安裝版本
 
 + 5.4 資料操作
+
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_chemplot_introduction.ipynb
 
 ####### 全部完成
