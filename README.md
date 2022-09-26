@@ -21,17 +21,19 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_
 # 第3章 Anaconda簡介與安裝
 
 + ai_programming_03_anaconda.pdf
+
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.pdf
 
 + ai_programming_03_anaconda.py
+
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
 
 # 第4章 資料分析
 
 + 4.1 資料匯入探索
-+ 
+
 + 4.2 資料處理探索
-+ 
+ 
 + 4.3 資料視覺化探索
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_data_analysis.py
@@ -48,4 +50,4 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_dat
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_chemplot_introduction.ipynb
 
-####### 全部完成
+全部完成 ^_^
