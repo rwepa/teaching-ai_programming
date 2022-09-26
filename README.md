@@ -19,7 +19,12 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_int
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
 
 # 第3章 Anaconda簡介與安裝
+
++ ai_programming_03_anaconda.pdf
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.pdf
+
++ ai_programming_03_anaconda.py
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
 
 # 第4章 資料分析
 
@@ -29,7 +34,14 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_data_analysis.py
 
-# ai_programming_03_anaconda.py
-https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
+# 第5章 chemplot 化學模型視覺化應用
 
-更新中...
++ 5.1 chemplot 模組簡介
+
++ 5.2 安裝模組
+
++ 5.3 顯示安裝版本
+
++ 5.4 資料操作
+
+####### 全部完成
