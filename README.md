@@ -3,7 +3,6 @@
 本課程將先從人工智慧基礎介紹為開端，再深入探討人工智慧進階之議題，最後說明程式語言與其應用。課程內容以Python程式語言為主，以培養學生具備AI與程式語言應用技能。
 
 # 第1章 課程介紹 (iClass)
-https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_introduction.pdf
 
 大綱
 
@@ -15,8 +14,11 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_int
 
 + 1.4 資料科學的心法
 
+下載
+
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_introduction.pdf
+
 # 第2章 AI與程式語言簡介
-https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
 
 大綱
 
@@ -26,15 +28,11 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_
 
 + 2.3 程式語言(大數據分析工具)
 
+下載
+
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
+
 # 第3章 Anaconda簡介與安裝
-
-+ ai_programming_03_anaconda.pdf
-
-https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.pdf
-
-+ ai_programming_03_anaconda.py
-
-https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
 
 大綱
 
@@ -52,7 +50,19 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
 
 + 3.7 認識模組
 
+下載
+
++ ai_programming_03_anaconda.pdf
+
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.pdf
+
++ ai_programming_03_anaconda.py
+
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
+
 # 第4章 資料分析
+
+大綱
 
 + 4.1 資料匯入探索
 
@@ -60,9 +70,13 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
  
 + 4.3 資料視覺化探索
 
+下載
+
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_data_analysis.py
 
 # 第5章 chemplot 化學模型視覺化應用
+
+大綱
 
 + 5.1 chemplot 模組簡介
 
@@ -71,6 +85,8 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_dat
 + 5.3 顯示安裝版本
 
 + 5.4 資料操作
+
+下載
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_chemplot_introduction.ipynb
 
