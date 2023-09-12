@@ -5,6 +5,16 @@
 # 第1章 課程介紹 (iClass)
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_introduction.pdf
 
+大綱
+
++ 1.1 教師簡介
+  
++ 1.2 課程介紹與成績評量
+
++ 1.3 課程必備技能
+
++ 1.4 資料科學的心法
+
 # 第2章 AI與程式語言簡介
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
 
