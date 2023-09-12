@@ -36,6 +36,22 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_ana
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_03_anaconda.py
 
+大綱
+
++ 3.1 Python 簡介與安裝
+
++ 3.2 Anaconda 簡介與安裝
+
++ 3.3 Spyder 軟體簡介
+
++ 3.4 變數
+
++ 3.5 資料型別與運算子
+
++ 3.6 資料物件
+
++ 3.7 認識模組
+
 # 第4章 資料分析
 
 + 4.1 資料匯入探索
