@@ -18,6 +18,25 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_01_int
 # 第2章 AI與程式語言簡介
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_02_ai_and_programming_introduction.pdf
 
+大綱
++ 2.1 人工智慧簡介
+
++ 2.2 人工智慧技術
+ 
+ + 2.2.1 機器學習
+  
+ + 2.2.2 深度學習
+  
+ + 2.2.3 影像辦識
+  
+ + 2.2.4 聯天機器人
+  
+ + 2.2.5 感測器
+   
+ + 2.2.6 大數據分析
+
++ 2.3 程式語言(大數據分析工具)
+
 # 第3章 Anaconda簡介與安裝
 
 + ai_programming_03_anaconda.pdf
