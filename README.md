@@ -90,4 +90,12 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_dat
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_chemplot_introduction.ipynb
 
+# 第6章 Python in Hydrology
+
+https://greenteapress.com/pythonhydro/pythonhydro.pdf
+
+pdf P.29 
+
+4.2 Water Vapor, saturation vapor pressure (飽和水氣壓曲線)
+
 全部完成 ^_^
