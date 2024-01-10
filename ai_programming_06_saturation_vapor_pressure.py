@@ -1,6 +1,6 @@
 """
 File     : ai_programming_06_saturation_vapor_pressure.py
-Title    : AI與程式語言-第6章 saturation vapor pressure
+Title    : AI與程式語言-第6章 saturation vapor pressure (飽和水氣壓曲線)
 Author   : Ming-Chang Lee
 Email    : alan9956@gmail.com
 RWEPA    : http://rwepa.blogspot.tw/
