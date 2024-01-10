@@ -92,10 +92,12 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_che
 
 # 第6章 Python in Hydrology
 
+參考 pdf P.29: 4.2 Water Vapor, saturation vapor pressure (飽和水氣壓曲線)
+
+下載
+
 https://greenteapress.com/pythonhydro/pythonhydro.pdf
 
-pdf P.29 
-
-4.2 Water Vapor, saturation vapor pressure (飽和水氣壓曲線)
+https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_06_saturation_vapor_pressure.py
 
 全部完成 ^_^
