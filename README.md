@@ -1,4 +1,4 @@
-# AI與程式語言
+# 人工智慧導論 (INTRODUCTION TO ARTIFICIAL INTELLIGENCE)
 
 本課程將先從人工智慧基礎介紹為開端，再深入探討人工智慧進階之議題，最後說明程式語言與其應用。課程內容以Python程式語言為主，以培養學生具備AI與程式語言應用技能。
 
@@ -90,7 +90,7 @@ https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_04_dat
 
 https://github.com/rwepa/teaching-ai_programming/blob/main/ai_programming_05_chemplot_introduction.ipynb
 
-# 第6章 Python in Hydrology
+# 第6章 Python in Hydrology 
 
 參考 pdf P.29: 4.2 Water Vapor, saturation vapor pressure (飽和水氣壓曲線)
 
