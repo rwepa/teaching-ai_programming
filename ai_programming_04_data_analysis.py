@@ -16,9 +16,18 @@ Encoding : UTF-8
 # 大綱
 ##############################
 
+# 4.0 下載 Anaconda
 # 4.1 資料匯入探索
 # 4.2 資料處理探索
 # 4.3 資料視覺化探索
+
+##############################
+# 4.0 下載 Anaconda
+##############################
+
+# https://www.anaconda.com/download
+# 按 [Free Download] \ 選取最底下頁面 [Download Miniconda Installer] \ 按左側 [Distribution Installers] \ 選取 Windows 下載
+# 下載完成後, 直接按 [Enter] 進行安裝
 
 ##############################
 # 4.1 資料匯入探索
