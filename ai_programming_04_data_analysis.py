@@ -25,7 +25,7 @@ Encoding : UTF-8
 ##############################
 
 # 寶可夢 Pokemon 資料示範
-# 連結以下網頁, 按 [Raw], 按 右鍵 \ 另存新檔 \ 存檔
+# 連結以下網頁, 按 右鍵 [Download raw file] 按鈕 \ 另存新檔 \ 存檔
 # https://github.com/rwepa/DataDemo/blob/master/pokemon.csv
 
 """
