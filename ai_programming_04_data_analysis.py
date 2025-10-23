@@ -63,21 +63,17 @@ import pandas as pd
 
 # 匯入 CSV 檔案, 以 , 區隔者
 # 依賁際下載位址,修改路徑.
-path = "C:/Users/asus/Downloads/pokemon.csv"
+path = "C:/Users/輸入使用者名稱/Downloads/pokemon.csv"
 df = pd.read_csv(path)
 df # 894*12
 
 # 資料物件類別
+type(df)
 # pandas.core.frame.DataFrame 資料框(DataFrame)
 # 資料框類似 Excel 工作表, 具有列指標與行指標, 可以選取多列與多行資料, 指標編號從0開始.
 
-type(df)
-
-# 資料摘要
-df.describe()
-
-# NA確認, Python以 nan 表示.
-# Type2 變數有421筆 nan, 即遺漏值 (missing value)
+# NA 確認, Python 使用 nan 表示遺漏值 (missing value), 即 Excel 儲存格沒有輸入資料或輸入NA
+# Type2 變數有421筆 nan 為遺漏值
 df.isnull().sum()
 
 # 前5筆
@@ -95,24 +91,34 @@ df.columns
 # 資料值(values)
 df.values
 
-# describe 統計摘要(statistic summary)
+# 資料摘要
+df.describe()
 
+# describe 統計摘要(statistic summary)
 # count 個數
 # mean  平均值
-# std   標準差 standard deviation, 一般希望愈小愈好, std=(sum(x-μ)^2/(n-1))^0.5
+# std   標準差 standard deviation
 # min   最小值
 # 25%   25百分位數
 # 50%   50百分位數, 中位數 median
 # 75%   75百分位數 (quantile)
 # max   最大值
 
-# Corrected sample standard deviation
+# std 標準差
 # https://en.wikipedia.org/wiki/Standard_deviation
+# 一般希望愈小愈好, std=(sum(x-μ)^2/(n-1))^0.5
 
-df.describe()
+# 資料框訊息
+df.info()
 
 # 資料型態, int64 整數, object 字串, bool 布林值{True, False}
 df.dtypes
+
+# pandas 設定顯示所有欄位
+pd.set_option('display.expand_frame_repr', False) # 取消自動換列
+pd.set_option('display.max_columns', None)        # 設定直行完全顯示
+pd.set_option('display.max_rows', None)           # 設定橫列完全顯示
+df
 
 ##############################
 # 4.2 資料處理探索
