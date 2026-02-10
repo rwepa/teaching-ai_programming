@@ -39,7 +39,6 @@ Encoding : UTF-8
 
 """
 # 寶可夢資料集說明
-# https://github.com/rwepa/DataDemo#pokemoncsv
 資料筆數: 894
 欄位個數: 12
 欄位名稱:
